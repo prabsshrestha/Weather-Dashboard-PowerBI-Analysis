@@ -4,7 +4,7 @@ This project is a fully interactive weather monitoring dashboard built with **Po
 
 ## 📊 Features
 
-- Live weather data for Kathmandu
+- Live weather data for Kathmandu, Pokhara, Rasuwa, Gorkha and Dang
 - 7-day temperature trend forecast
 - Air quality metrics (O3, CO, NO2, PM2.5, PM10, SO2)
 - Sunrise and sunset times
