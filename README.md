@@ -21,10 +21,10 @@ This project is a fully interactive weather monitoring dashboard built with **Po
 ## 🖼️ Dashboard Preview
 
 ![Weather Dashboard](Screenshot%202025-07-07%20122657.png)
-![Weather Dashboard](Screenshot%2025-07-07%122756.png)
-![Weather Dashboard](Screenshot%2025-07-07%122940.png)
-![Weather Dashboard](Screenshot%2025-07-07%122950.png)
-![Weather Dashboard](Screenshot%2025-07-07%123009.png)
+![Weather Dashboard](Screenshot%202025-07-07%20122756.png)
+![Weather Dashboard](Screenshot%202025-07-07%20122940.png)
+![Weather Dashboard](Screenshot%202025-07-07%20122950.png)
+![Weather Dashboard](Screenshot%202025-07-07%20123009.png)
 ## 📁 Project File
 
 You can download and explore the dashboard using Power BI Desktop:
