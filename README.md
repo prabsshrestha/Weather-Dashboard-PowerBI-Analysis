@@ -20,7 +20,7 @@ This project is a fully interactive weather monitoring dashboard built with **Po
 
 ## 🖼️ Dashboard Preview
 
-(Screenshot 2025-07-07 122657.png)
+![Dashboard Preview](Screenshot 2025-07-07 122657.png)
 
 ## 📁 Project File
 
