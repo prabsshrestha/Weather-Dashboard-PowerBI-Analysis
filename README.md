@@ -1,5 +1,11 @@
 # 🌤️ Weather Dashboard - Power BI
 
+[![Repo Size](https://img.shields.io/github/repo-size/prabsshrestha/Weather-Dashboard-PowerBI-Analysis)](https://github.com/prabsshrestha/Weather-Dashboard-PowerBI-Analysis)
+[![Last Commit](https://img.shields.io/github/last-commit/prabsshrestha/Weather-Dashboard-PowerBI-Analysis)](https://github.com/prabsshrestha/Weather-Dashboard-PowerBI-Analysis)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat&logo=powerbi)
+[![GitHub stars](https://img.shields.io/github/stars/prabsshrestha/Weather-Dashboard-PowerBI-Analysis?style=social)](https://github.com/prabsshrestha/Weather-Dashboard-PowerBI-Analysis/stargazers)
+
+
 This project is a fully interactive weather monitoring dashboard built with **Power BI**, showcasing real-time temperature, air quality index, wind speed, humidity, and chance of rain.
 
 ## 📊 Features
